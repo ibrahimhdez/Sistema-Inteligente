@@ -1,0 +1,6 @@
+Disminuir
+Disminuir potencia riego
+Disminuir potencia regado
+Disminuir velocidad regado
+Disminuir potencia horno
+

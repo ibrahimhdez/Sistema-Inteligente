@@ -1,0 +1,14 @@
+NÃºmero de palabras: 11
+
+Palabra: <UNKNOWN> Count: 0
+Palabra: baño Count: 4
+Palabra: esta Count: 5
+Palabra: en Count: 10
+Palabra: el Count: 8
+Palabra: la Count: 3
+Palabra: garaje Count: 4
+Palabra: cocina Count: 4
+Palabra: cuarto Count: 4
+Palabra: salon Count: 4
+Palabra: de Count: 1
+Palabra: del Count: 4

@@ -1,0 +1,5 @@
+Encender aire acondicionado
+Tengo calor
+Apagar aire acondicionado
+Disminuir temperatura
+Bajar temperatura

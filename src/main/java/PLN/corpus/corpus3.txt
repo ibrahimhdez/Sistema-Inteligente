@@ -1,0 +1,14 @@
+Encender riego
+Accionar riego
+Regar
+Aumentar potencia riego
+Aumenta potencia riego
+Aumenta potencia regado
+Disminuir potencia riego
+Disminuye potencia riego
+Disminuye potencia regado
+Aumentar potencia regado
+Disminuir potencia regado
+Aumentar velocidad regado
+Disminuir velocidad regado
+Riega

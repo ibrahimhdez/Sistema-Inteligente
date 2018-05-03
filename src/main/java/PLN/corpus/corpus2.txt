@@ -1,0 +1,7 @@
+Encender horno
+Apagar horno
+Apaga horno
+Calentar horno
+Encender hornillo
+Apagar hornillo
+Calentar hornillo

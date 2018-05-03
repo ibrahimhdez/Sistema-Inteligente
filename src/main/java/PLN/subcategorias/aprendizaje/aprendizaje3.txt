@@ -1,0 +1,14 @@
+Numero de documentos(preguntas) del corpus : 4
+Numero de palabras del corpus: 10
+Palabra: <UNKNOWN> Frec: 0 LogProb: -3.1354942159291497
+Palabra: baño Frec: 0 LogProb: -3.1354942159291497
+Palabra: cocina Frec: 0 LogProb: -3.1354942159291497
+Palabra: cuarto Frec: 4 LogProb: -1.5260563034950494
+Palabra: de Frec: 0 LogProb: -3.1354942159291497
+Palabra: del Frec: 1 LogProb: -2.4423470353692043
+Palabra: el Frec: 2 LogProb: -2.03688192726104
+Palabra: en Frec: 2 LogProb: -2.03688192726104
+Palabra: esta Frec: 1 LogProb: -2.4423470353692043
+Palabra: garaje Frec: 0 LogProb: -3.1354942159291497
+Palabra: la Frec: 0 LogProb: -3.1354942159291497
+Palabra: salon Frec: 0 LogProb: -3.1354942159291497

@@ -1,0 +1,6 @@
+luces
+puertas
+luces
+puertas
+garaje
+aire_acondicionado

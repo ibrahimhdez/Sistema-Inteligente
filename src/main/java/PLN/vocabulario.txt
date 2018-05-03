@@ -1,0 +1,65 @@
+Enciende
+Enciende las luces
+Encender la luz
+Encender las luces
+Enciende la luz
+Activar las luces
+Activa la luz
+Prende las luces
+Iluminar
+Apagar luces
+Apaga luz
+Encender horno
+Apagar horno
+Apaga horno
+Calentar horno
+Encender hornillo
+Apagar hornillo
+Calentar hornillo
+Encender riego
+Accionar riego
+Regar
+Aumenta potencia riego
+Aumentar potencia riego
+Disminuir potencia riego
+Disminuye potencia riego
+Aumentar potencia regado
+Aumenta potencia regado
+Disminuir potencia regado
+Aumentar velocidad regado
+Aumenta velocidad regado
+Disminuir velocidad regado
+Riega
+Encender alarma
+Apaga alarma
+Apagar alarma
+Proteger casa
+Encender alarmas
+Apagar alarmas
+Abrir ventanas
+Abrir ventana
+Oscurecer
+Cerrar ventanas
+Cerrar ventana
+Abrir puertas
+Abrir puerta
+Cerrar puerta
+Cerrar puertas
+Abrir garaje
+Cerrar garaje
+Abrir puerta garaje
+Abrir puerta del garaje
+Cerrar puerta garaje
+Cerrar puerta del garaje
+Proteger coche
+Voy a salir con el coche
+Encender calefacción
+Tengo frío
+Apagar calefacción
+Subir temperatura
+Aumentar temperatura
+Encender aire acondicionado
+Tengo calor
+Apagar aire acondicionado
+Disminuir temperatura
+Bajar temperatura

@@ -1,0 +1,6 @@
+enciende las luces
+cierra las puertas
+apagar luces del salon
+abrir puertas de la cocina
+cerrar garaje 
+tengo calor

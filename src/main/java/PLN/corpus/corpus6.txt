@@ -1,0 +1,4 @@
+Abrir puertas
+Abrir puerta
+Cerrar puerta
+Cerrar puertas

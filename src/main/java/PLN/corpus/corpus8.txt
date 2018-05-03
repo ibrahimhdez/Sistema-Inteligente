@@ -1,0 +1,6 @@
+Encender calefacción
+Tengo frío
+Apagar calefacción
+Subir temperatura
+Aumentar temperatura
+Encender la calefacción

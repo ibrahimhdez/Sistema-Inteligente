@@ -1,0 +1,9 @@
+Aumentar
+Subir
+Aumentar potencia riego
+Aumentar potencia regado
+Aumentar velocidad regado
+Subir temperatura
+Aumentar temperatura
+Aumentar potencia horno
+Disminuir potencia horno

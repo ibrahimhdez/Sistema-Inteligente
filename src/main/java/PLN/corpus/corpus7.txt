@@ -1,0 +1,8 @@
+Abrir garaje
+Cerrar garaje
+Proteger coche
+Voy a salir con el coche
+Abrir puerta garaje
+Abrir puerta del garaje
+Cerrar puerta garaje
+Cerrar puerta del garaje

@@ -1,0 +1,41 @@
+Enciende
+Encender
+Prender
+Enciende las luces
+Encender la luz
+Encender las luces
+Enciende la luz
+Activar las luces
+Prende las luces
+Iluminar
+Encender horno
+Enciende horno
+Calentar horno
+Encender hornillo
+Enciende hornillo
+Calentar hornillo
+Encender riego
+Encender regado
+Accionar riego
+Regar
+Riega
+Proteger casa
+Enciende alarma
+Encender alarmas
+Abrir ventanas
+Abrir ventana
+Abrir puertas
+Abrir puerta
+Cerrar puerta
+Cerrar puertas
+Abrir garaje
+Cerrar garaje
+Abrir puerta garaje
+Abrir puerta del garaje
+Proteger coche
+Voy a salir con el coche
+Encender calefacción
+Tengo frío
+Encender aire acondicionado
+Enciende aire acondicionado
+Tengo calor
